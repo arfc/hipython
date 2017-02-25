@@ -46,3 +46,16 @@
       icon: twitter
       name: Twitter
 
+- name: Devanshi Pratap
+  pic: /img/people/Devanshi.jpg
+  role: Hacker
+  social:
+    - url: mailto:dpratap2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/devanshipratap
+      icon: github-alt
+      name: Github
+    - url: https://www.facebook.com/devanshipratap
+      icon: facebook
+
