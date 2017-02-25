@@ -101,6 +101,21 @@
       icon: twitter
       name: Twitter
 
+- name: Andrei Rykhlevskii
+  pic: /img/people/rykhlevsa.jpg
+  role: Mentor
+  description: 'Andrei is a NPRE PhD student at UIUC.'
+  social:
+    - url: andreir2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/andrewryh
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/andrei-rykhlevskii
+      icon: linkedin-square
+      name: LinkedIn
+
 - name: John Doe
   pic: /img/people/doej.png
   role: Hacker
@@ -117,3 +132,4 @@
     - url: https://twitter.com/johndoe
       icon: twitter
       name: Twitter
+
