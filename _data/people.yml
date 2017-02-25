@@ -14,7 +14,7 @@
     - url: https://twitter.com/katyhuff
       icon: twitter
       name: Twitter
-       
+
 - name: Nicky Lim
   pic: /img/people/limn.jpg
   dates: 2015-present
@@ -70,3 +70,18 @@
       name: Github
     - url: https://www.facebook.com/devanshipratap
       icon: facebook
+
+- name: Prajakti Jinachandran
+  pic: /img/people/jinachandranp.jpg
+  role: Hacker
+  description: 'Prajakti Jinachandran is an undergraduate student at the University of Illinois at Urbana-Champaign majoring in Computer Science and Math'
+  social:
+    - url: mailto:pj3@illinois.com
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/praj1812
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/prajakti-j
+      icon: linkedin-square
+      name: LinkedIn
