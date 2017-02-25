@@ -27,22 +27,6 @@
     - url: https://github.com/nicklimjj
       icon: github-alt
       name: Github
-- name: John Doe
-  pic: /img/people/doej.png
-  role: Hacker
-  src: http://johndoeswebsite.com
-  url: http://johndoeswebsite.com
-  description: 'John Doe is an example. Here are some fun things about me.'
-  social:
-    - url: mailto:johndoe@gmail.com
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/johndoe
-      icon: github-alt
-      name: Github
-    - url: https://twitter.com/johndoe
-      icon: twitter
-      name: Twitter
 - name: Anna Buyevich
   pic: /img/people/buyevicha.jpg
   role: Hacker
@@ -95,3 +79,19 @@
     - url: https://github.com/hiraaldoshi
       icon: github-alt
       name: Github
+- name: John Doe
+  pic: /img/people/doej.png
+  role: Hacker
+  src: http://johndoeswebsite.com
+  url: http://johndoeswebsite.com
+  description: 'John Doe is an example. Here are some fun things about me.'
+  social:
+    - url: mailto:johndoe@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/johndoe
+      icon: github-alt
+      name: Github
+    - url: https://twitter.com/johndoe
+      icon: twitter
+      name: Twitter
