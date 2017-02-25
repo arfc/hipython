@@ -27,18 +27,6 @@
     - url: https://github.com/nicklimjj
       icon: github-alt
       name: Github
-       
-- name: Moltres
-  pic: /img/people/moltres.jpg
-  dates: 2016-present
-  status: Multiphysics software package. 
-  role: Symbol
-  description: 'A Moltres is a MOOSE-application code designed for simulation of molten salt reactors.'
-  social:
-    - url: https://github.com/lindsayad/moltres
-      icon: github-alt
-      name: Github
-
 - name: John Doe
   pic: /img/people/doej.png
   role: Hacker
