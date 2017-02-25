@@ -2,7 +2,7 @@
 title: HIPython
 email: katyhuff@gmail.com
 description: "Website for Hack Illinois Python"
-baseurl: "hipython" # the subpath of your site, e.g. /blog
+baseurl: "/hipython" # the subpath of your site, e.g. /blog
 url: "http://arfc.github.io/hipython" # the base hostname & protocol for your site
 twitter_username: katyhuff
 github_username: arfc
