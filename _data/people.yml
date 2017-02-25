@@ -46,18 +46,17 @@
       icon: twitter
       name: Twitter
 
-
 - name: Hiraal Doshi
   pic: /img/people/doshih.jpg
   role: Hacker
   description: 'Hiraal Doshi is a student majoring in Electrical Engineering in University of Illinois at Urbana-Champaign'
+  social:
     - url: mailto:hiraald2@illinois.edu
       icon: envelope-o
       name: Email
     - url: https://github.com/hiraaldoshi
       icon: github-alt
       name: Github
- 
 
 - name: Devanshi Pratap
   pic: /img/people/Devanshi.jpg
@@ -71,4 +70,3 @@
       name: Github
     - url: https://www.facebook.com/devanshipratap
       icon: facebook
-
