@@ -10,7 +10,7 @@
     - subtitle: "Setup Tools"
       suburl: "https://setuptools.readthedocs.io/en/latest/"
     - subtitle: "Velociraptor"
-      suburl: "/projects/velociraptor"
+      suburl: "https://github.com/yougov/velociraptor"
     - subtitle: "Spack"
       suburl: "https://spack.readthedocs.io/en/latest/"
     - subtitle: "yt"
@@ -27,4 +27,3 @@
 
 - title: "People"
   url: "/people/"
-
