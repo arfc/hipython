@@ -49,7 +49,7 @@ This website should be maintained collectively by the members of the hackathon.
 3. Clone your fork. If you have [your ssh keys set up](https://help.github.com/articles/generating-an-ssh-key/)
    and your username is USERNAME, the command is `git clone
    git@github.com:USERNAME/hipython`
-4. Add the group fork as a remote. `cd hipython && git remote add
+4. Add the group fork as a remote. `cd hipython && git remote add upstream
    git@github.com:arfc/hipython`
 
 Now, you're ready to make changes to the website. There are a few types of
