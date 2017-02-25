@@ -28,29 +28,13 @@
     - url: https://github.com/nicklimjj
       icon: github-alt
       name: Github
-       
-- name: John Doe
-  pic: /img/people/doej.png
-  role: Hacker
-  src: http://johndoeswebsite.com
-  url: http://johndoeswebsite.com
-  description: 'John Doe is an example. Here are some fun things about me.'
-  social:
-    - url: mailto:johndoe@gmail.com
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/johndoe
-      icon: github-alt
-      name: Github
-    - url: https://twitter.com/johndoe
-      icon: twitter
-      name: Twitter
+
 - name: Anna Buyevich
   pic: /img/people/buyevicha.jpg
   role: Hacker
   description: 'Anna is a CS and math undergrad at UIUC and is participating in an Open Source project in HackIllinois 2017.'
   social:
-    - url: annavb2@illinois.edu
+    - url: mailto:annavb2@illinois.edu
       icon: envelope-o
       name: Email
     - url: https://github.com/annabuyevich
@@ -59,17 +43,6 @@
     - url: https://www.linkedin.com/in/annabuyevich
       icon: linkedin-square
       name: LinkedIn
-- name: Hiraal Doshi
-  pic: /img/people/doshih.jpg
-  role: Hacker
-  description: 'Hiraal Doshi is a student majoring in Electrical Engineering in University of Illinois at Urbana-Champaign'
-  social:
-    - url: mailto:hiraald2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/hiraaldoshi
-      icon: github-alt
-      name: Github
 
 - name: Devanshi Pratap
   pic: /img/people/Devanshi.jpg
@@ -99,6 +72,35 @@
       icon: linkedin-square
       name: LinkedIn
 
+- name: Hiraal Doshi
+  pic: /img/people/doshih.jpg
+  role: Hacker
+  description: 'Hiraal Doshi is a student majoring in Electrical Engineering in University of Illinois at Urbana-Champaign'
+  social:
+    - url: mailto:hiraald2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/hiraaldoshi
+      icon: github-alt
+      name: Github
+
+- name: Carol Willing
+  pic: /img/people/willingc.jpg
+  role: Mentor - Jupyter
+  src: http://willingconsulting.com
+  url: http://willingconsulting.com
+  description: 'Carol Willing is a research software engineer and Python spirit guide.'
+  social:
+    - url: mailto:cawillin@calpoly.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/willingc
+      icon: github-alt
+      name: Github
+    - url: https://twitter.com/willingcarol
+      icon: twitter
+      name: Twitter
+
 - name: Andrei Rykhlevskii
   pic: /img/people/rykhlevsa.jpg
   role: Mentor
@@ -113,3 +115,21 @@
     - url: https://www.linkedin.com/in/andrei-rykhlevskii
       icon: linkedin-square
       name: LinkedIn
+
+- name: John Doe
+  pic: /img/people/doej.png
+  role: Hacker
+  src: http://johndoeswebsite.com
+  url: http://johndoeswebsite.com
+  description: 'John Doe is an example. Here are some fun things about me.'
+  social:
+    - url: mailto:johndoe@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/johndoe
+      icon: github-alt
+      name: Github
+    - url: https://twitter.com/johndoe
+      icon: twitter
+      name: Twitter
+
