@@ -1,0 +1,18 @@
+- title: Projects
+  pic: "https://hackillinois.org/src/assets/img/project_artboard_svg.svg"
+  src: '/projects/'
+  url: '/projects/'
+  description: 'Get to know the projects we can help you contribute to.'
+  
+- title: Resources
+  pic: 'https://cdn.pixabay.com/photo/2016/04/01/11/55/hardhat-1300442_1280.png'
+  src: '/resources/'
+  url: '/resources/'
+  description: 'Useful resources for getting started.'
+
+- title: People
+  pic: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Group_font_awesome.svg/2000px-Group_font_awesome.svg.png'
+  src: '/people/'
+  url: '/people/'
+  description: 'Feel free to add yourself to the people in the group.'
+
