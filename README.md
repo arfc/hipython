@@ -3,6 +3,7 @@
 
 Resources
 
+published at https://arfc.github.io/hipython
 
 ## Building This Website
 
