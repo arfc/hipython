@@ -49,7 +49,7 @@ This website should be maintained collectively by the members of the hackathon.
 3. Clone your fork. If you have [your ssh keys set up](https://help.github.com/articles/generating-an-ssh-key/)
    and your username is USERNAME, the command is `git clone
    git@github.com:USERNAME/hipython`
-4. Add the group fork as a remote. `cd hipython && git remote add
+4. Add the group fork as a remote. `cd hipython && git remote add upstream
    git@github.com:arfc/hipython`
 
 Now, you're ready to make changes to the website. There are a few types of
@@ -72,7 +72,7 @@ See below for directions on all of these.
    level directory of the website repository. Then, open a browser to
    `localhost:4000`.
 7. When you're satisfied, push your changes to your own fork with `git push origin
-   soruce`.
+   source`.
 8. Finally make a pull request from your source directory to the arfc fork of hipython.
 
 If you're feeling confident, you can skip the pull request. Instead, you can

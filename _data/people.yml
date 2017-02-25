@@ -14,6 +14,20 @@
     - url: https://twitter.com/katyhuff
       icon: twitter
       name: Twitter
+       
+- name: Nicky Lim
+  pic: /img/people/limn.jpg
+  dates: 2015-present
+  status: Open Source Contributor
+  role: UIUC Student
+  description: 'Nicky is a ECE undergrad in UIUC and is participating in an Open Source project in HackIllinois 2017.'
+  social:
+    - url: mailto:limjiaj2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/nicklimjj
+      icon: github-alt
+      name: Github
 
 - name: John Doe
   pic: /img/people/doej.png
@@ -32,6 +46,7 @@
       icon: twitter
       name: Twitter
 
+
 - name: Hiraal Doshi
   pic: /img/people/doshih.jpg
   role: Hacker
@@ -43,4 +58,17 @@
       icon: github-alt
       name: Github
  
+
+- name: Devanshi Pratap
+  pic: /img/people/Devanshi.jpg
+  role: Hacker
+  social:
+    - url: mailto:dpratap2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/devanshipratap
+      icon: github-alt
+      name: Github
+    - url: https://www.facebook.com/devanshipratap
+      icon: facebook
 
