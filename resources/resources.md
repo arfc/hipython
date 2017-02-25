@@ -72,7 +72,7 @@ See below for directions on all of these.
    level directory of the website repository. Then, open a browser to
    `localhost:4000`.
 7. When you're satisfied, push your changes to your own fork with `git push origin
-   soruce`.
+   source`.
 8. Finally make a pull request from your source directory to the arfc fork of hipython.
 
 If you're feeling confident, you can skip the pull request. Instead, you can
