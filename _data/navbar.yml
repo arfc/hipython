@@ -24,11 +24,6 @@
 
 - title: "Resources"
   url: "/resources/"
-  subcategories:
-    - subtitle: "Fundamentals"
-      suburl: "/resources/fundamentals"
-    - subtitle: "More"
-      suburl: "/resources/more"
 
 - title: "People"
   url: "/people/"
