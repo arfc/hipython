@@ -5,13 +5,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Huff Featured in NPRE News</title>
+  <title>Website</title>
     <meta name="viewport" content="width=device-width">
-  <meta name="description" content="I am thrilled to be featured in the NPRE news today. Susan Mumm wrote a lovely article announcing that I’ll be joining NPRE. You can read the article here.">
+  <meta name="description" content="Website for Hack Illinois Python">
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
   <link rel="stylesheet" href="/hipython/style.css">
-  <link rel="canonical" href="https://arfc.github.io/hipython/hipython/jekyll/update/2016/07/12/huff-npre-article/">
+  <link rel="canonical" href="https://arfc.github.io/hipython/hipython/resources/website">
   <link rel="alternate" type="application/rss+xml" title="HIPython" href="https://arfc.github.io/hipython/hipython/feed.xml">
   <link rel="shortcut icon" href="https://arfc.github.io/hipython/favicon.ico" />
     <!-- Custom Fonts -->
@@ -128,22 +128,78 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <section class="post-wrapper" class="">
+        <!-- Manual -->
+    <section id="title" class="">
         <div class="container">
-                <div class="row">
-                        <div class="col-lg-12 text-center">
-                                <h1 class="post-title" itemprop="name headline">Huff Featured in NPRE News</h1>
-                                <h3 class="section-subheading text-muted post-meta"><time datetime="2016-07-12T21:00:00-05:00" itemprop="datePublished">Jul 12, 2016</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Katy Huff</span></span></h3>
-                                <article class="post-content text-left">
-                                        <p>I am thrilled to be featured in the NPRE news today. Susan Mumm wrote a lovely 
-article announcing that I’ll be joining NPRE. You can read the article 
-<a href="http://npre.illinois.edu/news/reactor-physicist-katy-huff-joins-npre-faculty">here</a>.</p>
-
-
-                                </article>
-                        </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Website</h2>
+                    <h3 class="section-subheading text-muted">Editing this website.</h3>
                 </div>
-</section>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                </div>
+                <div class="col-md-6">
+                        <p>This website should be maintained collectively by the members of the hackathon.</p>
+
+<h2 id="set-up">Set Up</h2>
+
+<ol>
+  <li>(Optional) Install the build dependencies for the website. These include ruby, jekyll, 
+and jekyll-scholar. Get started <a href="https://jekyllrb.com/docs/installation/">here.</a>.</li>
+  <li><a href="https://github.com/arfc/arfc.github.io#fork-destination-box">Fork</a> the website repository.</li>
+  <li>Clone your fork. If you have <a href="https://help.github.com/articles/generating-an-ssh-key/">your ssh keys set up</a> 
+and your username is USERNAME, the command is <code class="highlighter-rouge">git clone 
+git@github.com:USERNAME/arfc.github.io</code></li>
+  <li>Add the group fork as a remote. <code class="highlighter-rouge">cd arfc.github.io &amp;&amp; git remote add 
+git@github.com:arfc/arfc.github.io</code></li>
+</ol>
+
+<p>Now, you’re ready to make changes to the website. There are a few types of 
+changes that are common:</p>
+
+<ul>
+  <li>Edits to the text</li>
+  <li>Adding yourself to the people page</li>
+  <li>Creating a blog post</li>
+</ul>
+
+<p>See below for directions on all of these.</p>
+
+<h2 id="add-yourself">Add Yourself</h2>
+
+<ol>
+  <li>Once you have done the set up steps, enter the source branch of the repository. <code class="highlighter-rouge">git checkout source</code></li>
+  <li>Add your photo to the repository (in img/people). If your name is Jane Doe, call it <code class="highlighter-rouge">doej.png</code>.</li>
+  <li>Don’t forget to git add and git commit the photo <code class="highlighter-rouge">git add img/people/doej.png</code> and <code class="highlighter-rouge">git commit -am "adds a photo of Jane Doe"</code></li>
+  <li>Open the file <code class="highlighter-rouge">_data/people.yml</code> and add your details.</li>
+  <li>Close the file and commit your changes (<code class="highlighter-rouge">git commit -am "added Jane Doe details to people data"</code>)</li>
+  <li>(Optional) Check whether your changes succeeded by typing <code class="highlighter-rouge">jekyll serve</code> from the top 
+level directory of the website repository. Then, open a browser to 
+<code class="highlighter-rouge">localhost:4000</code>.</li>
+  <li>When you’re satisfied, push your changes to your own fork with <code class="highlighter-rouge">git push origin 
+soruce</code>.</li>
+  <li>Finally make a pull request from your source directory to the arfc fork of hipython.</li>
+</ol>
+
+<p>If you’re feeling confident, you can skip the pull request. Instead, you can 
+just push changes to the website directly with the command <code class="highlighter-rouge">rake publish</code>. Only 
+do this if you don’t need anyone to double check your work.</p>
+
+
+                </div>
+                <div class="col-md-3">
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
+    
+
 
       </div>
     </div>
