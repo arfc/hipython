@@ -50,13 +50,13 @@
   role: Hacker
   description: 'Anna is a CS and math undergrad at UIUC and is participating in an Open Source project in HackIllinois 2017.'
   social:
-    - url: annavb2@illinois.edu
+    - url: mailto:annavb2@illinois.edu
       icon: envelope-o
       name: Email
     - url: https://github.com/annabuyevich
       icon: github-alt
       name: Github
-    - url: www.linkedin.com/in/annabuyevich
+    - url: https://www.linkedin.com/in/annabuyevich
       icon: linkedin-square
       name: LinkedIn
 - name: Hiraal Doshi
@@ -70,7 +70,6 @@
     - url: https://github.com/hiraaldoshi
       icon: github-alt
       name: Github
-
 - name: Devanshi Pratap
   pic: /img/people/Devanshi.jpg
   role: Hacker
