@@ -14,7 +14,6 @@
     - url: https://twitter.com/katyhuff
       icon: twitter
       name: Twitter
-
 - name: Nicky Lim
   pic: /img/people/limn.jpg
   dates: 2015-present
@@ -59,17 +58,6 @@
     - url: https://www.linkedin.com/in/annabuyevich
       icon: linkedin-square
       name: LinkedIn
-- name: Hiraal Doshi
-  pic: /img/people/doshih.jpg
-  role: Hacker
-  description: 'Hiraal Doshi is a student majoring in Electrical Engineering in University of Illinois at Urbana-Champaign'
-  social:
-    - url: mailto:hiraald2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/hiraaldoshi
-      icon: github-alt
-      name: Github
 - name: Devanshi Pratap
   pic: /img/people/Devanshi.jpg
   role: Hacker
@@ -97,3 +85,14 @@
     - url: https://www.linkedin.com/in/prajakti-j
       icon: linkedin-square
       name: LinkedIn
+- name: Hiraal Doshi
+  pic: /img/people/doshih.jpg
+  role: Hacker
+  description: 'Hiraal Doshi is a student majoring in Electrical Engineering in University of Illinois at Urbana-Champaign'
+  social:
+    - url: mailto:hiraald2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/hiraaldoshi
+      icon: github-alt
+      name: Github
