@@ -32,3 +32,12 @@
       icon: twitter
       name: Twitter
 
+- name: Jason R. Coombs
+  pic: http://en.gravatar.com/avatar/163acaf31cfd01645493404a2d379df6
+  role: Mentor
+  src: https://www.jaraco.com
+  url: https://www.jaraco.com
+  description: Enthusiastic Pythonista and Semi-structured data guru
+  social:
+    - url: https://github.com/jaraco
+      icon: github-alt
