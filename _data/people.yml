@@ -15,6 +15,107 @@
       icon: twitter
       name: Twitter
 
+- name: Nicky Lim
+  pic: /img/people/limn.jpg
+  dates: 2015-present
+  status: Open Source Contributor
+  role: UIUC Student
+  description: 'Nicky is a ECE undergrad in UIUC and is participating in an Open Source project in HackIllinois 2017.'
+  social:
+    - url: mailto:limjiaj2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/nicklimjj
+      icon: github-alt
+      name: Github
+
+- name: Anna Buyevich
+  pic: /img/people/buyevicha.jpg
+  role: Hacker
+  description: 'Anna is a CS and math undergrad at UIUC and is participating in an Open Source project in HackIllinois 2017.'
+  social:
+    - url: mailto:annavb2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/annabuyevich
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/annabuyevich
+      icon: linkedin-square
+      name: LinkedIn
+
+- name: Devanshi Pratap
+  pic: /img/people/Devanshi.jpg
+  role: Hacker
+  social:
+    - url: mailto:dpratap2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/devanshipratap
+      icon: github-alt
+      name: Github
+    - url: https://www.facebook.com/devanshipratap
+      icon: facebook
+
+- name: Prajakti Jinachandran
+  pic: /img/people/jinachandranp.jpg
+  role: Hacker
+  description: 'Prajakti Jinachandran is an undergraduate student at the University of Illinois at Urbana-Champaign majoring in Computer Science and Math'
+  social:
+    - url: mailto:pj3@illinois.com
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/praj1812
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/prajakti-j
+      icon: linkedin-square
+      name: LinkedIn
+
+- name: Hiraal Doshi
+  pic: /img/people/doshih.jpg
+  role: Hacker
+  description: 'Hiraal Doshi is a student majoring in Electrical Engineering in University of Illinois at Urbana-Champaign'
+  social:
+    - url: mailto:hiraald2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/hiraaldoshi
+      icon: github-alt
+      name: Github
+
+- name: Carol Willing
+  pic: /img/people/willingc.jpg
+  role: Mentor - Jupyter
+  src: http://willingconsulting.com
+  url: http://willingconsulting.com
+  description: 'Carol Willing is a research software engineer and Python spirit guide.'
+  social:
+    - url: mailto:cawillin@calpoly.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/willingc
+      icon: github-alt
+      name: Github
+    - url: https://twitter.com/willingcarol
+      icon: twitter
+      name: Twitter
+
+- name: Andrei Rykhlevskii
+  pic: /img/people/rykhlevsa.jpg
+  role: Mentor
+  description: 'Andrei is a NPRE PhD student at UIUC.'
+  social:
+    - url: andreir2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/andrewryh
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/andrei-rykhlevskii
+      icon: linkedin-square
+      name: LinkedIn
+
 - name: John Doe
   pic: /img/people/doej.png
   role: Hacker
